@@ -17,15 +17,15 @@
     "objectID": "Home/index.html#our-objectives",
     "href": "Home/index.html#our-objectives",
     "title": "The Alzheimer’s Disease and Microbiome Atlas (ADMA)",
-    "section": "Our Objectives",
-    "text": "Our Objectives\n\nData Collection and Integration: We gather and curate high-quality sequencing datasets from leading research institutions worldwide, ensuring extensive coverage of microbiome studies related to Alzheimer’s disease.\nResearch Facilitation: By offering a user-friendly platform, ADMA supports researchers in analyzing sequencing data to explore the connections between the microbiome and Alzheimer’s disease, promoting innovative research and collaboration.\nPublic Awareness and Education: ADMA is committed to raising awareness about the impact of microbiome sequencing data on Alzheimer’s disease, providing educational resources and the latest information for the public and healthcare professionals.\nCollaborative Efforts: We foster collaboration among scientists, clinicians, and research organizations globally to accelerate discoveries and translate sequencing data findings into therapeutic strategies."
+    "section": "",
+    "text": "Data Collection and Integration: We gather and curate high-quality sequencing datasets from leading research institutions worldwide, ensuring extensive coverage of microbiome studies related to Alzheimer’s disease.\nResearch Facilitation: By offering a user-friendly platform, ADMA supports researchers in analyzing sequencing data to explore the connections between the microbiome and Alzheimer’s disease, promoting innovative research and collaboration.\nPublic Awareness and Education: ADMA is committed to raising awareness about the impact of microbiome sequencing data on Alzheimer’s disease, providing educational resources and the latest information for the public and healthcare professionals.\nCollaborative Efforts: We foster collaboration among scientists, clinicians, and research organizations globally to accelerate discoveries and translate sequencing data findings into therapeutic strategies."
   },
   {
     "objectID": "Home/index.html#join-us",
     "href": "Home/index.html#join-us",
     "title": "The Alzheimer’s Disease and Microbiome Atlas (ADMA)",
-    "section": "Join Us",
-    "text": "Join Us\nADMA is more than just a database — it’s a community dedicated to unraveling the mysteries of Alzheimer’s disease through the lens of microbiome sequencing data. Whether you are a researcher, clinician, student, or simply someone interested in the science of Alzheimer’s disease, we invite you to explore our resources, contribute to our growing body of knowledge, and join us in the quest to better understand and combat this devastating condition."
+    "section": "",
+    "text": "ADMA is more than just a database — it’s a community dedicated to unraveling the mysteries of Alzheimer’s disease through the lens of microbiome sequencing data. Whether you are a researcher, clinician, student, or simply someone interested in the science of Alzheimer’s disease, we invite you to explore our resources, contribute to our growing body of knowledge, and join us in the quest to better understand and combat this devastating condition."
   },
   {
     "objectID": "Home.html#our-objectives",
@@ -42,24 +42,17 @@
     "text": "Join Us\nADMA is more than just a database — it’s a community dedicated to unraveling the mysteries of Alzheimer’s disease through the lens of microbiome sequencing data. Whether you are a researcher, clinician, student, or simply someone interested in the science of Alzheimer’s disease, we invite you to explore our resources, contribute to our growing body of knowledge, and join us in the quest to better understand and combat this devastating condition.\n\n\nContact CINEMA Research Group"
   },
   {
-    "objectID": "Datasets/index.html#gut-microbiome-composition-may-be-an-indicator-of-preclinical-alzheimers-disease",
-    "href": "Datasets/index.html#gut-microbiome-composition-may-be-an-indicator-of-preclinical-alzheimers-disease",
-    "title": "Current Datasets",
-    "section": "Gut microbiome composition may be an indicator of preclinical Alzheimer’s disease",
-    "text": "Gut microbiome composition may be an indicator of preclinical Alzheimer’s disease\n\nPubMed Literature\n\nSource: Washington University in St. Louis\n\nBioProject Link: PRJNA798058\n\n\nDescription: Human gut metagenome - species - metagenomes"
-  },
-  {
-    "objectID": "Datasets/index.html#section",
-    "href": "Datasets/index.html#section",
-    "title": "Current Datasets",
-    "section": "",
-    "text": "Literature: Gut microbiome composition may be an indicator of preclinical Alzheimer’s disease\n\n\nSource: Washington University in St. Louis\n\nBioProject Link: PRJNA798058\n\n\nDescription: Human gut metagenome - species - metagenomes"
-  },
-  {
     "objectID": "Datasets/index.html#shotgun-metagenomic-reads-from-wustl",
     "href": "Datasets/index.html#shotgun-metagenomic-reads-from-wustl",
     "title": "Current Datasets",
     "section": "Shotgun metagenomic reads from WUSTL",
     "text": "Shotgun metagenomic reads from WUSTL\n\n\nLiterature: Gut microbiome composition may be an indicator of preclinical Alzheimer’s disease\n\n\nSource: Washington University in St. Louis\n\nBioProject Link: PRJNA798058\n\n\nDescription: Human gut metagenome - 164 cognitively normal individuals, 49 of whom showed biomarker evidence of early preclinical AD."
+  },
+  {
+    "objectID": "Home/index.html",
+    "href": "Home/index.html",
+    "title": "The Alzheimer’s Disease and Microbiome Atlas (ADMA)",
+    "section": "",
+    "text": "The Alzheimer’s Disease and Microbiome Atlas (ADMA) is a platform for enhancing our understanding of the intricate relationship between Alzheimer’s disease (AD) and the human microbiome through cutting-edge sequencing data.\n\n\n\nData Collection and Integration: We gather and curate high-quality sequencing datasets from leading research institutions worldwide, ensuring extensive coverage of microbiome studies related to Alzheimer’s disease.\nResearch Facilitation: By offering a user-friendly platform, ADMA supports researchers in analyzing sequencing data to explore the connections between the microbiome and Alzheimer’s disease, promoting innovative research and collaboration.\nPublic Awareness and Education: ADMA is committed to raising awareness about the impact of microbiome sequencing data on Alzheimer’s disease, providing educational resources and the latest information for the public and healthcare professionals.\nCollaborative Efforts: We foster collaboration among scientists, clinicians, and research organizations globally to accelerate discoveries and translate sequencing data findings into therapeutic strategies.\n\n\n\n\nADMA is more than just a database — it’s a community dedicated to unraveling the mysteries of Alzheimer’s disease through the lens of microbiome sequencing data. Whether you are a researcher, clinician, student, or simply someone interested in the science of Alzheimer’s disease, we invite you to explore our resources, contribute to our growing body of knowledge, and join us in the quest to better understand and combat this devastating condition."
   }
 ]

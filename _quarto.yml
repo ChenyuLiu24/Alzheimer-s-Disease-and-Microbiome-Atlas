@@ -1,3 +1,5 @@
+output-dir: docs
+
 # website settings
 website:
   title: "Alzheimer’s Disease and Microbiome Atlas (ADMA)"

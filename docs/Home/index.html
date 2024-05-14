@@ -32,6 +32,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -116,16 +117,11 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-about-jolla content">
- <div id="about-block">
-</div>  
-</div>
-
 <section id="the-alzheimers-disease-and-microbiome-atlas-adma" class="level1">
 <h1>The Alzheimer’s Disease and Microbiome Atlas (ADMA)</h1>
 <p>The Alzheimer’s Disease and Microbiome Atlas (ADMA) is a platform for enhancing our understanding of the intricate relationship between Alzheimer’s disease (AD) and the human microbiome through cutting-edge sequencing data.</p>
 <section id="our-objectives" class="level2">
-<h2 data-anchor-id="our-objectives">Our Objectives</h2>
+<h2 class="anchored" data-anchor-id="our-objectives">Our Objectives</h2>
 <ul>
 <li><strong>Data Collection and Integration</strong>: We gather and curate high-quality sequencing datasets from leading research institutions worldwide, ensuring extensive coverage of microbiome studies related to Alzheimer’s disease.</li>
 <li><strong>Research Facilitation</strong>: By offering a user-friendly platform, ADMA supports researchers in analyzing sequencing data to explore the connections between the microbiome and Alzheimer’s disease, promoting innovative research and collaboration.</li>
@@ -134,9 +130,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="join-us" class="level2">
-<h2 data-anchor-id="join-us">Join Us</h2>
+<h2 class="anchored" data-anchor-id="join-us">Join Us</h2>
 <p>ADMA is more than just a database — it’s a community dedicated to unraveling the mysteries of Alzheimer’s disease through the lens of microbiome sequencing data. Whether you are a researcher, clinician, student, or simply someone interested in the science of Alzheimer’s disease, we invite you to explore our resources, contribute to our growing body of knowledge, and join us in the quest to better understand and combat this devastating condition.</p>
-
 
 
 </section>
@@ -163,6 +158,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
