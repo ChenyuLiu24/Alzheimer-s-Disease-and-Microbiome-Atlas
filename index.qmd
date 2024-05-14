@@ -1,0 +1,23 @@
+# The Alzheimer's Disease and Microbiome Atlas (ADMA)
+
+The Alzheimer’s Disease and Microbiome Atlas (ADMA) is a platform for enhancing our understanding of the intricate relationship between Alzheimer’s disease (AD) and the human microbiome through cutting-edge sequencing data.
+
+## Our Objectives
+
+- **Data Collection and Integration**: We gather and curate high-quality sequencing datasets from leading research institutions worldwide, ensuring extensive coverage of microbiome studies related to Alzheimer’s disease.
+- **Research Facilitation**: By offering a user-friendly platform, ADMA supports researchers in analyzing sequencing data to explore the connections between the microbiome and Alzheimer’s disease, promoting innovative research and collaboration.
+- **Public Awareness and Education**: ADMA is committed to raising awareness about the impact of microbiome sequencing data on Alzheimer’s disease, providing educational resources and the latest information for the public and healthcare professionals.
+- **Collaborative Efforts**: We foster collaboration among scientists, clinicians, and research organizations globally to accelerate discoveries and translate sequencing data findings into therapeutic strategies.
+
+## Join Us
+
+ADMA is more than just a database — it’s a community dedicated to unraveling the mysteries of Alzheimer’s disease through the lens of microbiome sequencing data. Whether you are a researcher, clinician, student, or simply someone interested in the science of Alzheimer’s disease, we invite you to explore our resources, contribute to our growing body of knowledge, and join us in the quest to better understand and combat this devastating condition.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://cwru-cinema.com/" role="button" target="_blank" style="padding: 15px 30px;">
+Contact CINEMA Research Group
+</a>
+</div>
+```
+
