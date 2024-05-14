@@ -1,0 +1,15 @@
+{
+  "hash": "a4da4d204f8351d33f205449ba904680",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nlayout: page\ntitle: Current Datasets\nexecute:\n  freeze: true  # never re-rende\nengine: knitr\n\ntoc: true\ntoc-title: Contents\ntoc-location: left\n\n---\n\n::: {#about-block}\n:::\n\n## Shotgun metagenomic reads from WUSTL\n\n- **Literature:** <u>[Gut microbiome composition may be an indicator of preclinical Alzheimer's disease](https://pubmed.ncbi.nlm.nih.gov/37315112/)\n- **Source:** Washington University in St. Louis\n- **BioProject Link:** <u>[PRJNA798058](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA798058)\n- **Description:** Human gut metagenome - 164 cognitively normal individuals, 49 of whom showed biomarker evidence of early preclinical AD.\n\n---\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

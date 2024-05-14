@@ -1,0 +1,23 @@
+---
+layout: page
+title: Current Datasets
+execute:
+  freeze: true  # never re-rende
+engine: knitr
+
+toc: true
+toc-title: Contents
+toc-location: left
+
+---
+::: {#about-block}
+:::
+
+## Shotgun metagenomic reads from WUSTL
+
+- **Literature:** <u>[Gut microbiome composition may be an indicator of preclinical Alzheimer's disease](https://pubmed.ncbi.nlm.nih.gov/37315112/)
+- **Source:** Washington University in St. Louis
+- **BioProject Link:** <u>[PRJNA798058](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA798058)
+- **Description:** Human gut metagenome - 164 cognitively normal individuals, 49 of whom showed biomarker evidence of early preclinical AD.
+---
+

@@ -1,0 +1,12 @@
+---
+title: About
+---
+
+## Brain-Gut-Microbiota Axis
+
+The Brain-Gut-Microbiota Axis refers to the bidirectional communication between the gut microbiome and the central nervous system (CNS). This axis influences digestive tract functions, such as permeability and immunity, through nervous pathways. The intestinal microbiome affects brain functions by signaling pathways and secreting active substances, impacting cognitive functions. Changes in the gut microbiome's composition can influence brain functions and contribute to conditions like amyloid pathology and Alzheimer's disease (AD).
+
+----
+
+## 
+
